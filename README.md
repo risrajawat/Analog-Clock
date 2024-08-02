@@ -1,2 +1,2 @@
 # Analog-Clock
-i made analog clock with  only using HTML, CSS &amp; JavaScript
+i build Analog Clock with using basic HTML, CSS & JavaScript and learn much thing with this..
